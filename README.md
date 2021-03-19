@@ -46,6 +46,17 @@ http://holidayroad.nss.team/eateries
 
 ## Personas
 
-## Charles
+### Charles
 
 ![](./personas/persona-charles.png)
+
+
+## Wireframes
+
+![Screen Shot 2021-03-15 at 2 47 22 PM](https://user-images.githubusercontent.com/78938657/111839971-0ac31980-88d2-11eb-90cc-a4e170d7e209.png)
+
+## Preview
+
+![Screen Shot 2021-03-19 at 4 51 03 PM](https://user-images.githubusercontent.com/78938657/111840825-63df7d00-88d3-11eb-81eb-7dc4f2d75420.png)
+![Screen Shot 2021-03-19 at 4 51 22 PM](https://user-images.githubusercontent.com/78938657/111840833-65a94080-88d3-11eb-97d2-8d550e3fcd71.png)
+##
