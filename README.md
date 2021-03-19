@@ -29,10 +29,7 @@ I focused on the eatery database to make sure that module was functioning and ad
 
 * API home: https://www.nps.gov/subjects/digital/nps-data-api.htm
 * API documentation: https://www.nps.gov/subjects/developer/api-documentation.htm
-
-### List All Parks
-
-https://developer.nps.gov/api/v1/parks?api_key=your_api_key
+* List all parks: https://developer.nps.gov/api/v1/parks?api_key=your_api_key
 
 ## Weather API
 
